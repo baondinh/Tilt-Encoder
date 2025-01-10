@@ -1,10 +1,9 @@
-# EC311-Project 
-# Tilt Encoder
+# Multi-input Encoder to VGA Display
+# Boston University EC311: Introduction to Logic Design
 ### Yuxuan Chen, Phyliss Darko, Bao Dinh, Kelsey Sweeney
 
 ## Link to Project Demo Video
-https://drive.google.com/drive/folders/19lKSHvc7CjlXUHgSjlxcV4TZcBsX02wY?usp=drive_link
-
+https://www.youtube.com/watch?v=atdEr1b-vSc&list=PLkw8tPrWxGDYfXfdz1Bc1uGVVXy_R3G9B&index=16
 
 ## Overview of the Project
 This project involves using switch inputs to write letters onto a screen and tilt inputs from an accelerometer to select the location of the lettering. The system integrates an accelerometer and VGA display to provide interactive feedback and visualization.
